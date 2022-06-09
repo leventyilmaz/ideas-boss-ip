@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
 <info>
-  <admin>194.56.184.97:45455</admin>
+  <!-- <admin>194.56.184.97:45455</admin> -->
+  <admin>192.168.0.19:45455</admin> 
 </info>
